@@ -1,0 +1,11 @@
+.nav-item {
+  text-decoration: none !important;
+}
+
+.nav-item:visited {
+  color: black;
+}
+
+.item-icon {
+  margin-right: 10px !important;
+}

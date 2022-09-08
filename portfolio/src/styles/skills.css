@@ -1,0 +1,15 @@
+.skillTabs {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid whitesmoke;
+  background-color: #b22d64;
+  z-index: 999;
+  flex: 1;
+}
+
+.skills__tools {
+  color: whitesmoke !important;
+  background-color: #33717e !important; /* fallback for old browsers */
+}
